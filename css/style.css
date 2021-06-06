@@ -1,0 +1,42 @@
+body {
+    background: #7a1e1e;
+  }
+  header img {
+    width: 50px;
+  }
+  
+  header nav {
+    float: right;
+  }
+  
+  header nav ul {
+    list-style: none;
+  }
+  
+  header nav ul li {
+    float: right;
+    padding-right: 20px;
+    font-size: 20px;
+    color: rgb(238, 229, 229);
+  }
+  
+ main { text-align: center ;
+padding-top: 20px;}
+
+  main img { 
+    border: 5px;
+   }
+  
+  main h1 {
+    text-align: center;
+    color: rgb(238, 229, 229);
+    
+  }
+  
+  footer {
+    text-align: center;
+    background: rgb(68, 68, 68);
+    color: #fff;
+    line-height: 50px
+  }
+  © 2021 GitHub, Inc.
